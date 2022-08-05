@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GAproject/static/css/main.e6c13ad2.css",
+    "main.js": "/GAproject/static/js/main.45a78e2f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GAproject/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/GAproject/index.html",
+    "main.e6c13ad2.css.map": "/GAproject/static/css/main.e6c13ad2.css.map",
+    "main.45a78e2f.js.map": "/GAproject/static/js/main.45a78e2f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GAproject/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.45a78e2f.js"
+  ]
+}
